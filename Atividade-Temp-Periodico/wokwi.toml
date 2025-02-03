@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = 'build/freq_03.hex'
-elf = 'build/freq_03.elf'
+firmware = 'build/temp_periodico.hex'
+elf = 'build/temp_periodico.elf'
